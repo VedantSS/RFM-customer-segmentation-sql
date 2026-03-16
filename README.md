@@ -1,4 +1,5 @@
-# RFM-customer-segmentation-sqlRFM Customer Segmentation using SQL
+# RFM-customer-segmentation-sqlRFM Customer Segmentation using SQL and PowerBI
+
 Project Overview
 
 This project performs customer segmentation using the RFM model (Recency, Frequency, Monetary).
